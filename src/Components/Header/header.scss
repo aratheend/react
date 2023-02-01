@@ -1,0 +1,23 @@
+.headerTop {
+    padding: 10px 0;
+   .logoArea {
+    width: 150px;
+    .logoImage {
+        width: 100%;
+    }
+   }
+//    .searchArea {
+//     // input {
+//     //     height: 10px;
+//     //     font-size: 16px;
+//     // }
+//    }
+    .iconArea {
+        display: flex;
+        justify-content: flex-end;
+        span {
+            margin-left: 20px;
+            color: #656464;
+        }
+    }
+}
